@@ -1,2 +1,15 @@
 ## Ignore References folder
 References/
+.vs/BS-RefreshButtons/config/applicationhost.config
+.vs/BS-RefreshButtons/v16/.suo
+.vs/BS-RefreshButtons/v16/Server/sqlite3/db.lock
+.vs/BS-RefreshButtons/v16/Server/sqlite3/storage.ide
+.vs/BS-RefreshButtons/v16/Server/sqlite3/storage.ide-shm
+.vs/BS-RefreshButtons/v16/Server/sqlite3/storage.ide-wal
+bin/Debug/BS-RefreshButtons.dll
+bin/Debug/BS-RefreshButtons.pdb
+obj/Debug/BS-RefreshButtons.csproj.FileListAbsolute.txt
+obj/Debug/BS-RefreshButtons.csprojAssemblyReference.cache
+obj/Debug/BS-RefreshButtons.dll
+obj/Debug/BS-RefreshButtons.pdb
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
